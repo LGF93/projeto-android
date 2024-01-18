@@ -193,7 +193,7 @@ aside > ul{
 
 footer{
    
-    background-color: var(--cor5);
+    background-color: rgba(0, 0, 0, 0.575);
     color:  white;
     text-align: center;
     font-size: 0.8em;
